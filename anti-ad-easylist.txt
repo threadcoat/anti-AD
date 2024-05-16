@@ -61319,11 +61319,6 @@
 ||payoffdisastrous.com^
 ||app.payomatic.com^
 ||app.payon.mn^
-||epl.paypal-communication.com^
-||sstats.paypal-metrics.com^
-||stats.paypal-metrics.com^
-||c.paypal.com^
-||t.paypal.com^
 ||payperpost.com^
 ||stats.paypresto.co^
 ||link.payris.app^
